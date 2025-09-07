@@ -1,39 +1,34 @@
-# Hi, I’m VEINN (Ahmet / Damar)
+# Hi, I'm VEINN (Ahmet / Damar)
 
-Full-stack developer passionate about building **modern web, mobile, and game applications**.
-Exploring the intersection of **software, creativity, and design**.
-Currently working on projects with **Next.js, Flutter, and Firebase**, while also experimenting with game development.
+Full-stack developer passionate about building **modern web, mobile, and game applications**. Exploring the intersection of **software, creativity, and design**. Currently working on projects with **Next.js, Flutter, and Firebase**, while also experimenting with game development.
 
----
+## Tech Stack
 
-### Tech Stack
 - **Frontend:** Next.js, React, TypeScript, TailwindCSS
 - **Backend:** Firebase, Node.js
 - **Mobile:** Flutter (Dart)
-- **Other Tools:** GitHub Actions, Docker, AI-assisted workflows (Cursor, Trae.ai, Windsurf)
+- **Other Tools:** GitHub Actions, Docker, AI assisted workflows (Cursor, Trae.ai, Windsurf)
 
----
+## GitHub Stats
 
-### GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=VEINNIV&hide=stars&show_icons=false&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEINNIV&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=VEINNIV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VEINNIV&show_icons=true&theme=github_dark" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEINNIV&layout=compact&theme=github_dark" alt="Top languages" />
-<img src="https://streak-stats.demolab.com?user=VEINNIV&theme=github_dark&hide_border=true" alt="GitHub streak" />
+## Current Focus
 
-### Current Focus
 - Improving my **Next.js & TypeScript** expertise
 - Building internal tools for **King Paint Co.**
-- Prototyping a **community-driven game project**
+- Prototyping a **community‑driven game project**
 - Growing [veinn.online](https://veinn.online) into a personal digital hub
-- Humor? Always. For example: “There are 10 types of people: those who understand binary and those who don’t.”
+- Humor? Always. Here's another one: "Why do programmers prefer dark mode? Because light attracts bugs."
 
----
+## Connect with Me
 
-### Connect with Me
 - Website: [veinn.online](https://veinn.online)
 - LinkedIn: [Ahmet Can Damar](https://www.linkedin.com/in/ahmet-can-damar-5a0883209/)
-- Email: ahmetcndamar@gmail.com
+- Email: [ahmetcndamar@gmail.com](mailto:ahmetcndamar@gmail.com)
 
----
-
-“Building technology that connects creativity and functionality.”
+> "Building technology that connects creativity and functionality."
