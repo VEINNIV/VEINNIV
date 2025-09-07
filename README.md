@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I’m VEINN (Ahmet / Damar)
 
-<!--
-**VEINNIV/VEINNIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack developer passionate about building **modern web, mobile, and game applications**.  
+🎨 Exploring the intersection of **software, creativity, and design**.  
+🚀 Currently working on projects with **Next.js, Flutter, and Firebase**, while also experimenting with game development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Frontend:** Next.js, React, TypeScript, TailwindCSS  
+- **Backend:** Firebase, Node.js  
+- **Mobile:** Flutter (Dart)  
+- **Other Tools:** GitHub Actions, Docker, AI-assisted workflows (Cursor, Trae.ai, Windsurf)  
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VEINNIV&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VEINNIV&layout=compact&theme=radical)
+
+---
+
+## 🚀 Current Focus
+- Improving my **Next.js & TypeScript** expertise  
+- Building internal tools for **King Paint Co.**  
+- Prototyping a **community-driven game project**  
+- Growing [veinn.online](https://veinn.online) into a personal digital hub  
+
+---
+
+## 📫 Connect with Me
+- 🌐 Website: [veinn.online](https://veinn.online)  
+- 💼 LinkedIn: [linkedin.com/in/username](#) *(add yours here)*  
+- ✉️ Email: your-email@example.com  
+
+---
+⭐️ _“Building technology that connects creativity and functionality.”_
