@@ -1,34 +1,30 @@
-# Hi, I'm VEINN (Ahmet / Damar)
+# Hey, I'm Ahmet (aka VEINN)
 
-Full-stack developer passionate about building **modern web, mobile, and game applications**. Exploring the intersection of **software, creativity, and design**. Currently working on projects with **Next.js, Flutter, and Firebase**, while also experimenting with game development.
+I build things for the web, mobile, and sometimes games. I like mixing code with good design, and I'm always testing out new tools to work faster. 
 
-## Tech Stack
+### What I'm working on right now
+- Leveling up my **Next.js & TypeScript** skills.
+- Prototyping a community-driven game project.
+- Making my personal site cooler at [veinn.online](https://veinn.online).
 
-- **Frontend:** Next.js, React, TypeScript, TailwindCSS
-- **Backend:** Firebase, Node.js
-- **Mobile:** Flutter (Dart)
-- **Other Tools:** GitHub Actions, Docker, AI assisted workflows (Cursor, Trae.ai, Windsurf)
+### Tech I use daily
+- **Web:** Next.js, React, TypeScript, Tailwind CSS
+- **Mobile:** Flutter 
+- **Backend:** Node.js, Firebase
+- **My Setup:** Cursor/Windsurf (AI workflows save lives!), Docker, GitHub Actions
 
-## GitHub Stats
+### My Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VEINNIV&hide=stars&show_icons=false&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEINNIV&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com?user=VEINNIV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VEINNIV&hide=stars&show_icons=false&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEINNIV&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=VEINNIV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## Current Focus
+### Let's connect
 
-- Improving my **Next.js & TypeScript** expertise
-- Building internal tools for **King Paint Co.**
-- Prototyping a **community‑driven game project**
-- Growing [veinn.online](https://veinn.online) into a personal digital hub
-- Humor? Always. Here's another one: "Why do programmers prefer dark mode? Because light attracts bugs."
+- **Website:** [veinn.online](https://veinn.online)
+- **LinkedIn:** [Ahmet Can Damar](https://www.linkedin.com/in/ahmet-can-damar-5a0883209/)
+- **Email:** [ahmetcndamar@gmail.com](mailto:ahmetcndamar@gmail.com)
 
-## Connect with Me
-
-- Website: [veinn.online](https://veinn.online)
-- LinkedIn: [Ahmet Can Damar](https://www.linkedin.com/in/ahmet-can-damar-5a0883209/)
-- Email: [ahmetcndamar@gmail.com](mailto:ahmetcndamar@gmail.com)
-
-> "Building technology that connects creativity and functionality."
+> *Why do programmers prefer dark mode? Because light attracts bugs. (But honestly, it just looks better.)*
