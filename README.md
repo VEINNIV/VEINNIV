@@ -1,19 +1,19 @@
-# Hey, I'm Ahmet (aka VEINN)
+# Hi, I'm Ahmet (VEINN)
 
-I build things for the web, mobile, and sometimes games. I like mixing code with good design, and I'm always testing out new tools to work faster. 
+I'm a developer focusing on web and mobile apps. I enjoy writing clean code, building good-looking interfaces, and constantly learning new tools to improve my workflow.
 
-### What I'm working on right now
-- Leveling up my **Next.js & TypeScript** skills.
+### What I'm focusing on right now
+- Getting better at **Next.js & TypeScript**.
 - Prototyping a community-driven game project.
-- Making my personal site cooler at [veinn.online](https://veinn.online).
+- Working on my personal site at [veinn.online](https://veinn.online).
 
-### Tech I use daily
+### Tech Stack
 - **Web:** Next.js, React, TypeScript, Tailwind CSS
 - **Mobile:** Flutter 
-- **Backend:** Node.js, Firebase
-- **My Setup:** Cursor/Windsurf (AI workflows save lives!), Docker, GitHub Actions
+- **Backend:** Node.js, Firebase, Supabase
+- **Tools:** Docker, GitHub Actions, Claude Code
 
-### My Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VEINNIV&hide=stars&show_icons=false&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -21,10 +21,10 @@ I build things for the web, mobile, and sometimes games. I like mixing code with
   <img src="https://streak-stats.demolab.com?user=VEINNIV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### Let's connect
+### Connect with me
 
 - **Website:** [veinn.online](https://veinn.online)
 - **LinkedIn:** [Ahmet Can Damar](https://www.linkedin.com/in/ahmet-can-damar-5a0883209/)
 - **Email:** [ahmetcndamar@gmail.com](mailto:ahmetcndamar@gmail.com)
 
-> *Why do programmers prefer dark mode? Because light attracts bugs. (But honestly, it just looks better.)*
+> *Why do programmers prefer dark mode? Because light attracts bugs. (Honestly, it just saves my eyes.)*
