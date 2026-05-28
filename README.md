@@ -25,6 +25,5 @@ I'm a developer focusing on web and mobile apps. I enjoy writing clean code, bui
 
 - **Website:** [veinn.online](https://veinn.online)
 - **LinkedIn:** [Ahmet Can Damar](https://www.linkedin.com/in/ahmet-can-damar-5a0883209/)
-- **Email:** [ahmetcndamar@gmail.com](mailto:ahmetcndamar@gmail.com)
 
 > *Why do programmers prefer dark mode? Because light attracts bugs. (Honestly, it just saves my eyes.)*
